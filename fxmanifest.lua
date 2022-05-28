@@ -1,0 +1,1 @@
+resources/gcphone/fxmanifest.lua
